@@ -11,3 +11,8 @@ Initially, I wanted a website that was straightfoward and clear cut so as to all
 The coloring was decided to be Black, Grey with a Red contrast. I felt that this would make it easier for the viewer to see the contents without it being too bright while still hightlighting key points of the contents and using coloring to clearly identify the structure of a layout.
 
 XD Link : https://xd.adobe.com/view/a30622a2-312a-4050-b6bf-399cb25ff847-f655/
+
+#Features
+
+- Navigation Bar
+Commonly, this is the norm for a lot of websites. I used a overarching navigation bar on the top of the website that exists in all pages in order to allow the viewer to have an easy access to any of the pages they want to view. This is important as the viewer would not have to go through the hassle of entering and exiting multiple pages in order to just view a singluar page of content.
