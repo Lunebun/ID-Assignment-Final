@@ -31,3 +31,10 @@ One of the problem I faced while creating the website is that the orginal naviga
 The third feature is sectioning. Looking at the other websites for inspirations, I found out that most of them clutter their content on a singlur page and I am not a fan of this because it takes quite a lot of time for the viewer to process the information. Moreover, if the organisation isn't good, it is difficult to decipher the information. As such, instead of only creating a few HTML pages, I have created sub-sections such as HTML pages for the project HTML page in order to better organise my content. For example, if a user wants to view my projects, they can choose from the projects available instead of having all shown to them at once. This allows the UI to be more user-friendly.
 
 
+# Technology Used
+
+- HTML : https://developer.mozilla.org/en-US/docs/Web/HTML
+HTML is the bread and butter of web programming so it is definitely used here.
+
+- CSS :
+
