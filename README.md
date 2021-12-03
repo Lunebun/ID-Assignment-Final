@@ -76,8 +76,16 @@ Other than that, there is no copying or references with other external sources.
 
 - Media
 
-Most
+Most of the photos and videos are from myself with a few exceptions of images from the internet. 
+I mainly used this website to find suitable images for my website: https://www.pexels.com/search/google/
 
+
+- Acknowedgements
+
+Throughout this website design, I had many inspirations and references to other people who made great websites. 
+A few of them are Jerry Wang: https://www.awwwards.com/sites/jerry-wang-design-more and Gayane Belonovich: https://www.awwwards.com/sites/ggb
+Moreover, any time I was not sure of any incoporate code to design
+I referenced to Mosh : https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA and W3Schools : https://www.w3schools.com/
 
 
 
