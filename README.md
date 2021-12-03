@@ -15,4 +15,6 @@ XD Link : https://xd.adobe.com/view/a30622a2-312a-4050-b6bf-399cb25ff847-f655/
 #Features
 
 - Navigation Bar
+
+
 Commonly, this is the norm for a lot of websites. I used a overarching navigation bar on the top of the website that exists in all pages in order to allow the viewer to have an easy access to any of the pages they want to view. This is important as the viewer would not have to go through the hassle of entering and exiting multiple pages in order to just view a singluar page of content.
