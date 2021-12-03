@@ -203,7 +203,7 @@
     align-items: center;
     justify-self: center;
     margin: 0 auto;
-    height: 120vh;
+    height: 150vh;
     background-color: #141414;
     z-index: 1;
     width: 100%;
@@ -235,7 +235,7 @@
 
 .main_content p {
     margin-top: 1rem;
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: 700;
     color: #ffff;
 }
@@ -312,7 +312,12 @@
 
 
 /* Mobile Responsive */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 720px) {
+    #skill {
+        height: 100%;
+        max-height: 2000px;
+    }
+
     .main_container {
         display: grid;
         grid-template-columns: auto;
@@ -320,7 +325,7 @@
         justify-self: center;
         width: 100%;
         margin: 0 auto;
-        height: 100vh;
+        height: 100%;
     }  
 
     .main_content {
