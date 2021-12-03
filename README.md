@@ -34,7 +34,10 @@ The third feature is sectioning. Looking at the other websites for inspirations,
 # Technology Used
 
 - HTML : https://developer.mozilla.org/en-US/docs/Web/HTML
+
 HTML is the bread and butter of web programming so it is definitely used here.
 
-- CSS :
+- CSS : https://developer.mozilla.org/en-US/docs/Web/CSS
+
+CSS works hand in hand with HTML to make the design more user-friendly and digestable so as to not confuse or overwhelm the user.
 
