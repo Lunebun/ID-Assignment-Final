@@ -86,8 +86,7 @@ Throughout this website design, I had many inspirations and references to other 
 A few of them are Jerry Wang: https://www.awwwards.com/sites/jerry-wang-design-more and Gayane Belonovich: https://www.awwwards.com/sites/ggb
 Moreover, any time I was not sure of any incoporate code to design
 I referenced to Mosh : https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA and W3Schools : https://www.w3schools.com/
-
-
+The Format and Color Scheme is heavily inspired by Brian Design: https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A
 
 
 
