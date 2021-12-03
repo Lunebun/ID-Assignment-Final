@@ -41,3 +41,11 @@ HTML is the bread and butter of web programming so it is definitely used here.
 
 CSS works hand in hand with HTML to make the design more user-friendly and digestable so as to not confuse or overwhelm the user.
 
+- Javascript : https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+Javascript is mainly used here for interactive purposes on the website. For instance, I used javascript to make the bullet point on the navigation bar for the mobile view.
+
+- Adobe XD : https://www.adobe.com/sg/products/xd.html
+
+The main wire framing for the website design is created in Adobe XD. It has helped greatly in visualising my design for the website.
+
