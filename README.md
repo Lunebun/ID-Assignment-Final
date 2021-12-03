@@ -49,3 +49,25 @@ Javascript is mainly used here for interactive purposes on the website. For inst
 
 The main wire framing for the website design is created in Adobe XD. It has helped greatly in visualising my design for the website.
 
+
+#Testing
+
+1. Mobile Bullet Pointer:
+
+- Load the website with the resolution of 720px width or smaller
+- Check to see if there is a pointer selection on the top right hand of the screen
+- Click on the selection and check if there is a dropdown of the navigation bar
+- Check if the navigation bar takes you to the other pages
+- Repeat for all pages
+
+For this project, there isn't much of a different in between the tested browsers of Chrome, Microsoft Edge and Firefox. The design of the mobile version is mainly a top down showing of the text first then the images and videos.
+
+#Bugs
+
+Throughout the whole creation of the website, I had not encounter many bugs but there is one that stood out quite often. When creating the css for the mobile version of the website, when I coded the size of the coloring of the website to always fill the background size (100%) it doesn't do it for the main page despite being referenced to the same css.
+
+
+
+
+
+
