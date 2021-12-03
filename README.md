@@ -64,7 +64,19 @@ For this project, there isn't much of a different in between the tested browsers
 
 #Bugs
 
-Throughout the whole creation of the website, I had not encounter many bugs but there is one that stood out quite often. When creating the css for the mobile version of the website, when I coded the size of the coloring of the website to always fill the background size (100%) it doesn't do it for the main page despite being referenced to the same css.
+Throughout the whole creation of the website, I had not encounter many bugs but there is one that stood out quite often. When creating the css for the mobile version of the website, when I coded the size of the coloring of the website to always fill the background size (100%) it doesn't do it for the main page despite being referenced to the same css. However, it is only a minor bug since it only existed on the main page but all other pages are functional and the contents are displayed clearly for the user.
+
+#Credits
+
+- Content
+
+Most of the text are created by myself with reference to my other portfolio website here: https://myownpreciouswebsite.webador.com/
+Other than that, there is no copying or references with other external sources.
+
+
+- Media
+
+Most
 
 
 
